@@ -3,4 +3,8 @@
 
 sebelum menjalankan toolsnya masukan targetnya ke file tar.txt
 
-$cat nano.txt
+$nano nano.txt
+
+jika sudah lalu jalankan toolsnya
+
+$php wp.php
