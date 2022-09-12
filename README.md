@@ -8,5 +8,3 @@ $nano nano.txt
 jika sudah lalu jalankan toolsnya
 
 $php wp.php
-
-# 20220912_125735.jpg
